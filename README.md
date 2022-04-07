@@ -1,5 +1,5 @@
-# sales analysis 
-zomato sales analysis  
+
+## ZOMATO SALES ANALYSIS
 The Zomato Sales  Analysis power bi dashboard aims to provide an analysis of Zomato Food Datasets(Hotels of Different cities of India). In this repo, you'll find a precise and interactive 
 ##### `Power BI report`
 We have added different graphs, cards, tables, filters, etc. You can have a look at the interactive Power-BI report in repository 
